@@ -10,7 +10,7 @@ body{
 header{
     background-color: #178a00;
     text-align: center;
-    color: rgb(160, 177, 189);
+    color: rgb(255, 255, 255);
     padding: 1rem;
 }
 .products{
@@ -20,7 +20,7 @@ header{
     padding: 1rem;
 }
 .product{
-    border: 1px solid #ddd;
+    border: 1px solid #350000;
     padding: 1rem;
     margin: 1rem;
     text-align: center;

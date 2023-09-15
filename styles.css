@@ -8,10 +8,14 @@ body{
 }
 
 header{
-    background-color: #178a00;
+    
     text-align: center;
     color: rgb(255, 255, 255);
     padding: 1rem;
+    background-image: url("./img/header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 .products{
    display: flex;
@@ -38,10 +42,10 @@ header{
     background-color: #f1f1f1;
 }
 .frete:hover{
-    background-color: rgb(66, 255, 3);
+    background-color: rgb(51, 0, 255);
 }
 .button{
-    background-color: #4bb901;
+    background-color: #d50303;
     color: white;
     padding: 0.5rem 1rem;
     border: none;
@@ -49,7 +53,7 @@ header{
 }
 
 .button:hover{
-background-color: #d0ff00;
+background-color: rgb(51, 0, 255);
 }
 .rating{
     display: flex;
